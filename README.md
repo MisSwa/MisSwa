@@ -2,7 +2,7 @@
 
 AI Engineer in Charlotte, NC. I work directly with business users to turn manual, document-heavy workflows into production agentic systems, with human review built in from the start.
 
-- Currently building an RFP response agent in Microsoft Copilot Studio at **Bank of America**
+- Currently building enterprise AI agents at **Bank of America**
 - Previously designed and deployed a LangGraph support assistant for a WordPress ecosystem client serving 30M+ active installations
 - Domain background in **banking** and **healthcare** (HIPAA, EDI 270/271)
 
